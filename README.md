@@ -1,2 +1,2 @@
-# betty.github.io
+# recovery_journey.github.io
 Website Idea
